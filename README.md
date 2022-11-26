@@ -39,5 +39,5 @@ Storing the image link for the photo  user to Firestore and fetching it from the
 Created a collection in firestore and adding text data for each user.
 ## Calculator
 
-Created calculator APIs for addition, subtraction, multplication with node + express and hosted it on render.com (as Heroku free tier is expiring after 28 nov). [API Github]()
+Created calculator APIs for addition, subtraction, multplication with node + express and hosted it on render.com (as Heroku free tier is expiring after 28 nov). [API Github](https://github.com/shubham7799/nordstone-server)
 
